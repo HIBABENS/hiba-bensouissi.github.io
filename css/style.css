@@ -1588,4 +1588,8 @@ a:focus {
         line-height: 16px;
         padding: 0 5px;
     }
+
+    .paragraph1 {
+        font-size: 8px;
+      }
 }
