@@ -416,7 +416,8 @@ a:focus {
 /*******************************/
 .section-header {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
+    margin-top: 45px;
 }
 
 .section-header p {
